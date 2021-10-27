@@ -36,3 +36,6 @@
 *.filters
 *.vcxproj
 *.sln
+*.ipch
+*.suo
+*.db
